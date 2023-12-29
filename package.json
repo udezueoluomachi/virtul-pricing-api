@@ -1,0 +1,30 @@
+{
+  "name": "stackion_user-management",
+  "version": "1.0.0",
+  "description": "server for handling user requests on stackion",
+  "main": "index.js",
+  "dependencies": {
+    "dotenv": "^16.0.1",
+    "mysql": "^2.18.1",
+    "nodemailer": "^6.7.0",
+    "nosql-json-db": "^1.0.0",
+    "socket.io": "^4.4.1",
+    "socket.io-client": "^4.4.1",
+    "ws": "^8.5.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Udezue Oluomachi Chimaobi",
+  "license": "MIT",
+  "keywords": [],
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stackion/stackion-pricing-api.git"
+  },
+  "bugs": {
+    "url": "https://github.com/stackion/stackion-pricing-api/issues"
+  },
+  "homepage": "https://github.com/stackion/stackion-pricing-api#readme"
+}
